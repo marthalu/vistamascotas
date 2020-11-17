@@ -1,0 +1,29 @@
+﻿@model Domain.Items
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Detalles del item</h1>
+
+<div>
+    <hr />
+    <dl class="row">
+        <dd class = "col-sm-12">
+            <label>Categoria:</label> @Model.categoria.descripcion
+        </dd>
+        <dd class="col-sm-12">
+            <label>Mascota:</label> @Model.mascota.nombre
+        </dd>
+        <dd class="col-sm-12">
+            <label>Descripción:</label> @Model.descripcion
+        </dd>
+        <dd class="col-sm-12">
+            <label>Precio:</label> @Model.precio
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model.id">Editar</a> |
+    <a asp-action="Index">Volver</a>
+</div>

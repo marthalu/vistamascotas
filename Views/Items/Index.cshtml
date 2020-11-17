@@ -1,0 +1,55 @@
+﻿@model IEnumerable<Domain.Items>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Lista de items para mascotas</h1>
+
+<p>
+    <a asp-action="Create">Crear nuevo item</a>
+</p>
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>
+                Categoria
+            </th>
+            <th>
+                Mascota
+            </th>
+            <th>
+                Descripción
+            </th>
+            <th>
+                Precio
+            </th>
+            <th>
+                Opciones
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+    @foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.categoria.descripcion)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.mascota.nombre)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.descripcion)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.precio)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.id">Editar</a> |
+                <a asp-action="Details" asp-route-id="@item.id">Detalles</a> |
+                <a asp-action="Delete" asp-route-id="@item.id">Eliminar</a>
+            </td>
+        </tr>
+    }
+    </tbody>
+</table>

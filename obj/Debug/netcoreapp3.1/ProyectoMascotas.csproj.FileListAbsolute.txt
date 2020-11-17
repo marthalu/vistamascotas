@@ -1,0 +1,357 @@
+C:\Users\vicresca\source\repos\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\vicresca\source\repos\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\vicresca\source\repos\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\vicresca\source\repos\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.json
+C:\Users\vicresca\source\repos\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.local.json
+C:\Users\vicresca\source\repos\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\ProyectoMascotas.exe
+C:\Users\vicresca\source\repos\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\ProyectoMascotas.deps.json
+C:\Users\vicresca\source\repos\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\ProyectoMascotas.runtimeconfig.json
+C:\Users\vicresca\source\repos\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\ProyectoMascotas.runtimeconfig.dev.json
+C:\Users\vicresca\source\repos\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\ProyectoMascotas.dll
+C:\Users\vicresca\source\repos\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\ProyectoMascotas.pdb
+C:\Users\vicresca\source\repos\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\ProyectoMascotas.Views.dll
+C:\Users\vicresca\source\repos\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\ProyectoMascotas.Views.pdb
+C:\Users\vicresca\source\repos\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\vicresca\source\repos\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\vicresca\source\repos\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\vicresca\source\repos\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\vicresca\source\repos\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\vicresca\source\repos\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\vicresca\source\repos\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\vicresca\source\repos\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\vicresca\source\repos\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\vicresca\source\repos\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\vicresca\source\repos\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\vicresca\source\repos\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\vicresca\source\repos\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\vicresca\source\repos\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\vicresca\source\repos\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\vicresca\source\repos\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\vicresca\source\repos\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\vicresca\source\repos\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\vicresca\source\repos\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\vicresca\source\repos\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\vicresca\source\repos\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\vicresca\source\repos\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vicresca\source\repos\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vicresca\source\repos\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vicresca\source\repos\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vicresca\source\repos\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vicresca\source\repos\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vicresca\source\repos\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vicresca\source\repos\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vicresca\source\repos\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vicresca\source\repos\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vicresca\source\repos\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vicresca\source\repos\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vicresca\source\repos\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vicresca\source\repos\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vicresca\source\repos\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vicresca\source\repos\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vicresca\source\repos\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vicresca\source\repos\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vicresca\source\repos\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vicresca\source\repos\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vicresca\source\repos\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vicresca\source\repos\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vicresca\source\repos\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vicresca\source\repos\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vicresca\source\repos\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vicresca\source\repos\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vicresca\source\repos\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vicresca\source\repos\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vicresca\source\repos\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vicresca\source\repos\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vicresca\source\repos\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vicresca\source\repos\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vicresca\source\repos\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vicresca\source\repos\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vicresca\source\repos\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vicresca\source\repos\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vicresca\source\repos\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vicresca\source\repos\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vicresca\source\repos\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vicresca\source\repos\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vicresca\source\repos\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vicresca\source\repos\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vicresca\source\repos\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vicresca\source\repos\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vicresca\source\repos\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vicresca\source\repos\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vicresca\source\repos\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vicresca\source\repos\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vicresca\source\repos\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vicresca\source\repos\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vicresca\source\repos\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vicresca\source\repos\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vicresca\source\repos\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\vicresca\source\repos\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\vicresca\source\repos\ProyectoMascotas\ProyectoMascotas\obj\Debug\netcoreapp3.1\ProyectoMascotas.csprojAssemblyReference.cache
+C:\Users\vicresca\source\repos\ProyectoMascotas\ProyectoMascotas\obj\Debug\netcoreapp3.1\ProyectoMascotas.AssemblyInfoInputs.cache
+C:\Users\vicresca\source\repos\ProyectoMascotas\ProyectoMascotas\obj\Debug\netcoreapp3.1\ProyectoMascotas.AssemblyInfo.cs
+C:\Users\vicresca\source\repos\ProyectoMascotas\ProyectoMascotas\obj\Debug\netcoreapp3.1\ProyectoMascotas.csproj.CoreCompileInputs.cache
+C:\Users\vicresca\source\repos\ProyectoMascotas\ProyectoMascotas\obj\Debug\netcoreapp3.1\ProyectoMascotas.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\vicresca\source\repos\ProyectoMascotas\ProyectoMascotas\obj\Debug\netcoreapp3.1\ProyectoMascotas.RazorAssemblyInfo.cache
+C:\Users\vicresca\source\repos\ProyectoMascotas\ProyectoMascotas\obj\Debug\netcoreapp3.1\ProyectoMascotas.RazorAssemblyInfo.cs
+C:\Users\vicresca\source\repos\ProyectoMascotas\ProyectoMascotas\obj\Debug\netcoreapp3.1\ProyectoMascotas.TagHelpers.input.cache
+C:\Users\vicresca\source\repos\ProyectoMascotas\ProyectoMascotas\obj\Debug\netcoreapp3.1\ProyectoMascotas.TagHelpers.output.cache
+C:\Users\vicresca\source\repos\ProyectoMascotas\ProyectoMascotas\obj\Debug\netcoreapp3.1\ProyectoMascotas.RazorCoreGenerate.cache
+C:\Users\vicresca\source\repos\ProyectoMascotas\ProyectoMascotas\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\vicresca\source\repos\ProyectoMascotas\ProyectoMascotas\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\vicresca\source\repos\ProyectoMascotas\ProyectoMascotas\obj\Debug\netcoreapp3.1\Razor\Views\Items\Create.cshtml.g.cs
+C:\Users\vicresca\source\repos\ProyectoMascotas\ProyectoMascotas\obj\Debug\netcoreapp3.1\Razor\Views\Items\Delete.cshtml.g.cs
+C:\Users\vicresca\source\repos\ProyectoMascotas\ProyectoMascotas\obj\Debug\netcoreapp3.1\Razor\Views\Items\Details.cshtml.g.cs
+C:\Users\vicresca\source\repos\ProyectoMascotas\ProyectoMascotas\obj\Debug\netcoreapp3.1\Razor\Views\Items\Edit.cshtml.g.cs
+C:\Users\vicresca\source\repos\ProyectoMascotas\ProyectoMascotas\obj\Debug\netcoreapp3.1\Razor\Views\Items\Index.cshtml.g.cs
+C:\Users\vicresca\source\repos\ProyectoMascotas\ProyectoMascotas\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\vicresca\source\repos\ProyectoMascotas\ProyectoMascotas\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\vicresca\source\repos\ProyectoMascotas\ProyectoMascotas\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\vicresca\source\repos\ProyectoMascotas\ProyectoMascotas\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\vicresca\source\repos\ProyectoMascotas\ProyectoMascotas\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\vicresca\source\repos\ProyectoMascotas\ProyectoMascotas\obj\Debug\netcoreapp3.1\ProyectoMascotas.RazorTargetAssemblyInfo.cache
+C:\Users\vicresca\source\repos\ProyectoMascotas\ProyectoMascotas\obj\Debug\netcoreapp3.1\ProyectoMascotas.RazorTargetAssemblyInfo.cs
+C:\Users\vicresca\source\repos\ProyectoMascotas\ProyectoMascotas\obj\Debug\netcoreapp3.1\ProyectoMascotas.Views.pdb
+C:\Users\vicresca\source\repos\ProyectoMascotas\ProyectoMascotas\obj\Debug\netcoreapp3.1\ProyectoMascotas.csproj.CopyComplete
+C:\Users\vicresca\source\repos\ProyectoMascotas\ProyectoMascotas\obj\Debug\netcoreapp3.1\staticwebassets\ProyectoMascotas.StaticWebAssets.Manifest.cache
+C:\Users\vicresca\source\repos\ProyectoMascotas\ProyectoMascotas\obj\Debug\netcoreapp3.1\staticwebassets\ProyectoMascotas.StaticWebAssets.xml
+C:\Users\vicresca\source\repos\ProyectoMascotas\ProyectoMascotas\obj\Debug\netcoreapp3.1\ProyectoMascotas.dll
+C:\Users\vicresca\source\repos\ProyectoMascotas\ProyectoMascotas\obj\Debug\netcoreapp3.1\ProyectoMascotas.pdb
+C:\Users\vicresca\source\repos\ProyectoMascotas\ProyectoMascotas\obj\Debug\netcoreapp3.1\ProyectoMascotas.genruntimeconfig.cache
+C:\Users\Usuario\Downloads\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Usuario\Downloads\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Usuario\Downloads\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Usuario\Downloads\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.json
+C:\Users\Usuario\Downloads\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.local.json
+C:\Users\Usuario\Downloads\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\ProyectoMascotas.exe
+C:\Users\Usuario\Downloads\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\ProyectoMascotas.deps.json
+C:\Users\Usuario\Downloads\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\ProyectoMascotas.runtimeconfig.json
+C:\Users\Usuario\Downloads\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\ProyectoMascotas.runtimeconfig.dev.json
+C:\Users\Usuario\Downloads\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\ProyectoMascotas.dll
+C:\Users\Usuario\Downloads\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\ProyectoMascotas.pdb
+C:\Users\Usuario\Downloads\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\ProyectoMascotas.Views.dll
+C:\Users\Usuario\Downloads\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\ProyectoMascotas.Views.pdb
+C:\Users\Usuario\Downloads\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Usuario\Downloads\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Usuario\Downloads\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Usuario\Downloads\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Usuario\Downloads\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Usuario\Downloads\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Usuario\Downloads\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Usuario\Downloads\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Usuario\Downloads\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Usuario\Downloads\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Usuario\Downloads\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Usuario\Downloads\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Usuario\Downloads\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Usuario\Downloads\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Usuario\Downloads\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Usuario\Downloads\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Usuario\Downloads\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Usuario\Downloads\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Usuario\Downloads\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Usuario\Downloads\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Usuario\Downloads\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Usuario\Downloads\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Usuario\Downloads\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Usuario\Downloads\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Usuario\Downloads\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Usuario\Downloads\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Usuario\Downloads\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Usuario\Downloads\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Usuario\Downloads\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Usuario\Downloads\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Usuario\Downloads\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Usuario\Downloads\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Usuario\Downloads\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Usuario\Downloads\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Usuario\Downloads\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Usuario\Downloads\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Usuario\Downloads\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Usuario\Downloads\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Usuario\Downloads\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Usuario\Downloads\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Usuario\Downloads\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Usuario\Downloads\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Usuario\Downloads\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Usuario\Downloads\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Usuario\Downloads\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Usuario\Downloads\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Usuario\Downloads\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Usuario\Downloads\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Usuario\Downloads\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Usuario\Downloads\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Usuario\Downloads\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Usuario\Downloads\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Usuario\Downloads\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Usuario\Downloads\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Usuario\Downloads\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Usuario\Downloads\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Usuario\Downloads\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Usuario\Downloads\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Usuario\Downloads\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Usuario\Downloads\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Usuario\Downloads\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Usuario\Downloads\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Usuario\Downloads\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Usuario\Downloads\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Usuario\Downloads\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Usuario\Downloads\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Usuario\Downloads\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Usuario\Downloads\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Usuario\Downloads\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Usuario\Downloads\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Usuario\Downloads\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Usuario\Downloads\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Usuario\Downloads\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Usuario\Downloads\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\Usuario\Downloads\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\Usuario\Downloads\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\obj\Debug\netcoreapp3.1\ProyectoMascotas.csprojAssemblyReference.cache
+C:\Users\Usuario\Downloads\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\obj\Debug\netcoreapp3.1\ProyectoMascotas.AssemblyInfoInputs.cache
+C:\Users\Usuario\Downloads\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\obj\Debug\netcoreapp3.1\ProyectoMascotas.AssemblyInfo.cs
+C:\Users\Usuario\Downloads\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\obj\Debug\netcoreapp3.1\ProyectoMascotas.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\obj\Debug\netcoreapp3.1\ProyectoMascotas.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Usuario\Downloads\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\obj\Debug\netcoreapp3.1\ProyectoMascotas.RazorAssemblyInfo.cache
+C:\Users\Usuario\Downloads\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\obj\Debug\netcoreapp3.1\ProyectoMascotas.RazorAssemblyInfo.cs
+C:\Users\Usuario\Downloads\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\obj\Debug\netcoreapp3.1\ProyectoMascotas.TagHelpers.input.cache
+C:\Users\Usuario\Downloads\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\obj\Debug\netcoreapp3.1\ProyectoMascotas.TagHelpers.output.cache
+C:\Users\Usuario\Downloads\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\obj\Debug\netcoreapp3.1\ProyectoMascotas.RazorCoreGenerate.cache
+C:\Users\Usuario\Downloads\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Usuario\Downloads\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Usuario\Downloads\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\obj\Debug\netcoreapp3.1\Razor\Views\Items\Create.cshtml.g.cs
+C:\Users\Usuario\Downloads\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\obj\Debug\netcoreapp3.1\Razor\Views\Items\Delete.cshtml.g.cs
+C:\Users\Usuario\Downloads\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\obj\Debug\netcoreapp3.1\Razor\Views\Items\Details.cshtml.g.cs
+C:\Users\Usuario\Downloads\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\obj\Debug\netcoreapp3.1\Razor\Views\Items\Edit.cshtml.g.cs
+C:\Users\Usuario\Downloads\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\obj\Debug\netcoreapp3.1\Razor\Views\Items\Index.cshtml.g.cs
+C:\Users\Usuario\Downloads\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Usuario\Downloads\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Usuario\Downloads\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Usuario\Downloads\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Usuario\Downloads\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Usuario\Downloads\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\obj\Debug\netcoreapp3.1\ProyectoMascotas.RazorTargetAssemblyInfo.cache
+C:\Users\Usuario\Downloads\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\obj\Debug\netcoreapp3.1\ProyectoMascotas.RazorTargetAssemblyInfo.cs
+C:\Users\Usuario\Downloads\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\obj\Debug\netcoreapp3.1\ProyectoMascotas.Views.pdb
+C:\Users\Usuario\Downloads\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\obj\Debug\netcoreapp3.1\ProyectoMascotas.csproj.CopyComplete
+C:\Users\Usuario\Downloads\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\obj\Debug\netcoreapp3.1\staticwebassets\ProyectoMascotas.StaticWebAssets.Manifest.cache
+C:\Users\Usuario\Downloads\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\obj\Debug\netcoreapp3.1\staticwebassets\ProyectoMascotas.StaticWebAssets.xml
+C:\Users\Usuario\Downloads\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\obj\Debug\netcoreapp3.1\ProyectoMascotas.dll
+C:\Users\Usuario\Downloads\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\obj\Debug\netcoreapp3.1\ProyectoMascotas.pdb
+C:\Users\Usuario\Downloads\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\obj\Debug\netcoreapp3.1\ProyectoMascotas.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\Universidad\Programacion 4\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Usuario\Desktop\Universidad\Programacion 4\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Usuario\Desktop\Universidad\Programacion 4\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Usuario\Desktop\Universidad\Programacion 4\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.json
+C:\Users\Usuario\Desktop\Universidad\Programacion 4\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.local.json
+C:\Users\Usuario\Desktop\Universidad\Programacion 4\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\ProyectoMascotas.exe
+C:\Users\Usuario\Desktop\Universidad\Programacion 4\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\ProyectoMascotas.deps.json
+C:\Users\Usuario\Desktop\Universidad\Programacion 4\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\ProyectoMascotas.runtimeconfig.json
+C:\Users\Usuario\Desktop\Universidad\Programacion 4\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\ProyectoMascotas.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\Universidad\Programacion 4\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\ProyectoMascotas.dll
+C:\Users\Usuario\Desktop\Universidad\Programacion 4\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\ProyectoMascotas.pdb
+C:\Users\Usuario\Desktop\Universidad\Programacion 4\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\ProyectoMascotas.Views.dll
+C:\Users\Usuario\Desktop\Universidad\Programacion 4\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\ProyectoMascotas.Views.pdb
+C:\Users\Usuario\Desktop\Universidad\Programacion 4\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Usuario\Desktop\Universidad\Programacion 4\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Usuario\Desktop\Universidad\Programacion 4\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Usuario\Desktop\Universidad\Programacion 4\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Usuario\Desktop\Universidad\Programacion 4\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Usuario\Desktop\Universidad\Programacion 4\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Usuario\Desktop\Universidad\Programacion 4\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Usuario\Desktop\Universidad\Programacion 4\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Usuario\Desktop\Universidad\Programacion 4\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Usuario\Desktop\Universidad\Programacion 4\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Usuario\Desktop\Universidad\Programacion 4\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Usuario\Desktop\Universidad\Programacion 4\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Usuario\Desktop\Universidad\Programacion 4\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Usuario\Desktop\Universidad\Programacion 4\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Usuario\Desktop\Universidad\Programacion 4\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Usuario\Desktop\Universidad\Programacion 4\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Usuario\Desktop\Universidad\Programacion 4\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Usuario\Desktop\Universidad\Programacion 4\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Usuario\Desktop\Universidad\Programacion 4\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Usuario\Desktop\Universidad\Programacion 4\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Usuario\Desktop\Universidad\Programacion 4\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Usuario\Desktop\Universidad\Programacion 4\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Usuario\Desktop\Universidad\Programacion 4\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Usuario\Desktop\Universidad\Programacion 4\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Usuario\Desktop\Universidad\Programacion 4\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Usuario\Desktop\Universidad\Programacion 4\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Usuario\Desktop\Universidad\Programacion 4\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Usuario\Desktop\Universidad\Programacion 4\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Usuario\Desktop\Universidad\Programacion 4\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Usuario\Desktop\Universidad\Programacion 4\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Usuario\Desktop\Universidad\Programacion 4\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Usuario\Desktop\Universidad\Programacion 4\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Usuario\Desktop\Universidad\Programacion 4\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Usuario\Desktop\Universidad\Programacion 4\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Usuario\Desktop\Universidad\Programacion 4\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Usuario\Desktop\Universidad\Programacion 4\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Usuario\Desktop\Universidad\Programacion 4\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Usuario\Desktop\Universidad\Programacion 4\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Usuario\Desktop\Universidad\Programacion 4\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Usuario\Desktop\Universidad\Programacion 4\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Usuario\Desktop\Universidad\Programacion 4\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Usuario\Desktop\Universidad\Programacion 4\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Usuario\Desktop\Universidad\Programacion 4\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Usuario\Desktop\Universidad\Programacion 4\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Usuario\Desktop\Universidad\Programacion 4\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Usuario\Desktop\Universidad\Programacion 4\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Usuario\Desktop\Universidad\Programacion 4\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Usuario\Desktop\Universidad\Programacion 4\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Usuario\Desktop\Universidad\Programacion 4\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Usuario\Desktop\Universidad\Programacion 4\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Usuario\Desktop\Universidad\Programacion 4\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Usuario\Desktop\Universidad\Programacion 4\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Usuario\Desktop\Universidad\Programacion 4\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Usuario\Desktop\Universidad\Programacion 4\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Usuario\Desktop\Universidad\Programacion 4\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Usuario\Desktop\Universidad\Programacion 4\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Usuario\Desktop\Universidad\Programacion 4\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Usuario\Desktop\Universidad\Programacion 4\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Usuario\Desktop\Universidad\Programacion 4\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Usuario\Desktop\Universidad\Programacion 4\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Usuario\Desktop\Universidad\Programacion 4\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Usuario\Desktop\Universidad\Programacion 4\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Usuario\Desktop\Universidad\Programacion 4\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Usuario\Desktop\Universidad\Programacion 4\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Usuario\Desktop\Universidad\Programacion 4\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Usuario\Desktop\Universidad\Programacion 4\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Usuario\Desktop\Universidad\Programacion 4\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Usuario\Desktop\Universidad\Programacion 4\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Usuario\Desktop\Universidad\Programacion 4\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Usuario\Desktop\Universidad\Programacion 4\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Usuario\Desktop\Universidad\Programacion 4\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Usuario\Desktop\Universidad\Programacion 4\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Usuario\Desktop\Universidad\Programacion 4\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Usuario\Desktop\Universidad\Programacion 4\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\Usuario\Desktop\Universidad\Programacion 4\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\Usuario\Desktop\Universidad\Programacion 4\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\obj\Debug\netcoreapp3.1\ProyectoMascotas.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\Universidad\Programacion 4\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\obj\Debug\netcoreapp3.1\ProyectoMascotas.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Universidad\Programacion 4\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\obj\Debug\netcoreapp3.1\ProyectoMascotas.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Universidad\Programacion 4\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\obj\Debug\netcoreapp3.1\ProyectoMascotas.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Universidad\Programacion 4\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\obj\Debug\netcoreapp3.1\ProyectoMascotas.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Usuario\Desktop\Universidad\Programacion 4\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\obj\Debug\netcoreapp3.1\ProyectoMascotas.RazorAssemblyInfo.cache
+C:\Users\Usuario\Desktop\Universidad\Programacion 4\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\obj\Debug\netcoreapp3.1\ProyectoMascotas.RazorAssemblyInfo.cs
+C:\Users\Usuario\Desktop\Universidad\Programacion 4\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\obj\Debug\netcoreapp3.1\ProyectoMascotas.TagHelpers.input.cache
+C:\Users\Usuario\Desktop\Universidad\Programacion 4\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\obj\Debug\netcoreapp3.1\ProyectoMascotas.TagHelpers.output.cache
+C:\Users\Usuario\Desktop\Universidad\Programacion 4\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\obj\Debug\netcoreapp3.1\ProyectoMascotas.RazorCoreGenerate.cache
+C:\Users\Usuario\Desktop\Universidad\Programacion 4\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Usuario\Desktop\Universidad\Programacion 4\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Usuario\Desktop\Universidad\Programacion 4\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\obj\Debug\netcoreapp3.1\Razor\Views\Items\Create.cshtml.g.cs
+C:\Users\Usuario\Desktop\Universidad\Programacion 4\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\obj\Debug\netcoreapp3.1\Razor\Views\Items\Delete.cshtml.g.cs
+C:\Users\Usuario\Desktop\Universidad\Programacion 4\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\obj\Debug\netcoreapp3.1\Razor\Views\Items\Details.cshtml.g.cs
+C:\Users\Usuario\Desktop\Universidad\Programacion 4\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\obj\Debug\netcoreapp3.1\Razor\Views\Items\Edit.cshtml.g.cs
+C:\Users\Usuario\Desktop\Universidad\Programacion 4\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\obj\Debug\netcoreapp3.1\Razor\Views\Items\Index.cshtml.g.cs
+C:\Users\Usuario\Desktop\Universidad\Programacion 4\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Usuario\Desktop\Universidad\Programacion 4\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Usuario\Desktop\Universidad\Programacion 4\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Usuario\Desktop\Universidad\Programacion 4\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Usuario\Desktop\Universidad\Programacion 4\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Usuario\Desktop\Universidad\Programacion 4\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\obj\Debug\netcoreapp3.1\ProyectoMascotas.RazorTargetAssemblyInfo.cache
+C:\Users\Usuario\Desktop\Universidad\Programacion 4\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\obj\Debug\netcoreapp3.1\ProyectoMascotas.RazorTargetAssemblyInfo.cs
+C:\Users\Usuario\Desktop\Universidad\Programacion 4\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\obj\Debug\netcoreapp3.1\ProyectoMascotas.Views.pdb
+C:\Users\Usuario\Desktop\Universidad\Programacion 4\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\obj\Debug\netcoreapp3.1\ProyectoMascotas.csproj.CopyComplete
+C:\Users\Usuario\Desktop\Universidad\Programacion 4\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\obj\Debug\netcoreapp3.1\staticwebassets\ProyectoMascotas.StaticWebAssets.Manifest.cache
+C:\Users\Usuario\Desktop\Universidad\Programacion 4\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\obj\Debug\netcoreapp3.1\staticwebassets\ProyectoMascotas.StaticWebAssets.xml
+C:\Users\Usuario\Desktop\Universidad\Programacion 4\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\obj\Debug\netcoreapp3.1\ProyectoMascotas.dll
+C:\Users\Usuario\Desktop\Universidad\Programacion 4\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\obj\Debug\netcoreapp3.1\ProyectoMascotas.pdb
+C:\Users\Usuario\Desktop\Universidad\Programacion 4\ProyectoMascotasNET\ProyectoMascotas\ProyectoMascotas\obj\Debug\netcoreapp3.1\ProyectoMascotas.genruntimeconfig.cache

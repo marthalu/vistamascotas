@@ -1,0 +1,43 @@
+@model Domain.Items
+
+@{
+  ViewData["Title"] = "Delete";
+}
+<h3>Desea eliminar el item?</h3>
+<div>
+  <hr />
+  <dl class="row">
+    <dt class="col-sm-2">
+      @Html.DisplayNameFor(model => model.descripcion)
+    </dt>
+    <dd class="col-sm-10">
+      @Html.DisplayFor(model => model.descripcion)
+    </dd>
+    <dt class="col-sm-2">
+      @Html.DisplayNameFor(model => model.precio)
+    </dt>
+    <dd class="col-sm-10">
+      @Html.DisplayFor(model => model.precio)
+    </dd>
+  </dl>
+
+  <input type="button" value="Eliminar" class="btn btn-danger" onclick="deleteItem(@Model.id)"/> |
+  <a asp-action="Index" id="backToIndex">Volver</a>
+  
+</div>
+
+@section scripts {
+  <script>
+    function deleteItem(id) {
+      $.ajax({
+        url: '/Items/DeleteConfirmed',
+        data: { id: id },
+        type: 'POST',
+        success: function (result) {
+          alert("Item eliminado !");
+          $("#backToIndex")[0].click();
+        }
+      });
+    }
+  </script>
+}
